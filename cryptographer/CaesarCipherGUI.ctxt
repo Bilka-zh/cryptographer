@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=CaesarCipherGUI
+comment1.params=
+comment1.target=CaesarCipherGUI()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=void\ encryptMessage()
+comment5.params=
+comment5.target=void\ decryptMessage()
+comment6.params=message\ shiftKey
+comment6.target=java.lang.String\ encrypt(java.lang.String,\ int)
+comment7.params=encryptedMessage\ shiftKey
+comment7.target=java.lang.String\ decrypt(java.lang.String,\ int)
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+comment9.params=
+comment9.target=void\ run()
+numComments=10
